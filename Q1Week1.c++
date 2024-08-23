@@ -2,20 +2,22 @@
 #include <iostream>
 #include <string>
 using namespace std;
-int main(){
+/*int main(){
     string str1;
     string str2;
-
-    cin>>str1>>str2;
+    cout<<"Enter the first string: ";
+    cin>>str1;
+    cout<<"Enter the second string:";
+    cin>>str2;
 
     string newStr=str1;
     newStr+=str2;
-    cout<<newStr;
+    cout<<"Concatenated string: "<<newStr;
 
 }
-
+*/
 //Ques-02 Write a C++ program that takes five grades (integers) as input from the user and calculates the average grade. Output the average grade to the user.
-int main(){
+/*int main(){
     int  grade;
     int sum=0;
     for(int i=0; i<5; i++){
@@ -25,8 +27,8 @@ int main(){
     }
     float avg=(float)sum/5;
 
-    cout<<avg;
-}
+    cout<<"The average grade is: "<<avg;
+}*/
 
 //Ques- 03 Write a C++ program that takes an integer as input from the user and outputs its square.
 int main(){
