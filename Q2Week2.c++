@@ -3,7 +3,7 @@
 //Ques-01: Write a C++ program that takes three integers as input from the user and determines the largest of the three using if-else statements.
 #include <iostream>
 using namespace std;
-/*int main(){
+int main(){
     int a,b,c;
     cout<<"enter first number: ";
     cin>>a;
@@ -22,10 +22,10 @@ using namespace std;
         cout<<"The largest number is: "<<c;
       }
     
-}*/
+}
 
 //Ques-02: Write a C++ program that takes an integer score (0-100) as input from the user and prints the corresponding grade using if-else-if statements.
-/*int main(){
+int main(){
     int grade;
     cout<<"Enter the score: ";
     cin>>grade;
@@ -46,7 +46,7 @@ using namespace std;
         cout<<"Grade: F";
 
     }
-}*/
+}
 
 
 //Ques-03: Write a C++ program that takes an integer as input from the user and prints the corresponding month of the year using a switch case statement. Assume 1 = January, 2 = February, ..., 12 = December.If integer is not from 1 to 12 then print invalid.
