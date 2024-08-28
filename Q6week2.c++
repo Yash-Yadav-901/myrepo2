@@ -4,7 +4,7 @@
 
 #include <iostream>
 using namespace std;
-/*int main(){
+int main(){
     int s;
     cout<<"Enter the size of the array: ";
     cin>>s;
@@ -19,12 +19,12 @@ using namespace std;
     }
     cout<<"Sum of the array: "<<sum;
 }
-*/
+
 
 
 //Ques-02 Write a C++ program that takes an array as input and prints the sum of odd numbers and the sum of even numbers separately.
 
-/*int main(){
+int main(){
     int s;
     cout<<"Enter the size of the array: ";
     cin>>s;
@@ -48,7 +48,7 @@ using namespace std;
     }
     cout<<"Sum of odd numbers:  "<<so<<endl;
     cout<<"Sum of even numbers: "<<se;
-}*/
+}
 
 
 //Ques-03 Write a C++ program that takes an array as input and prints the number of odd numbers and the number of even numbers in the array.
